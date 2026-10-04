@@ -4,3 +4,4 @@ data/
 models/
 bert_out/
 *.joblib
+desktop.ini
