@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+streamlit
+# only for the DistilBERT part:
+torch
+transformers
+datasets
+accelerate
